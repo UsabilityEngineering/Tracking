@@ -1,4 +1,4 @@
-# Project Name
+# Team Tracking: ArtsyTrail App
 
 Introduction - a brief summary of the general problem being studied and addressed
 
