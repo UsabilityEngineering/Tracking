@@ -4,8 +4,9 @@ Introduction - a brief summary of the general problem being studied and addresse
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
+* **Henry Graves** - Summary of contributions
+* **Shan Khinda** - Summary of contributions
+* **Warren Rose II** - Summary of contributions
 
 ## Phase 1: User Inquiry and Inspection
 
