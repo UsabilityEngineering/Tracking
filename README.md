@@ -1,7 +1,6 @@
 # Team Tracking: ArtsyTrail App
 
-Introduction - a brief summary of the general problem being studied and addressed
-Social media is a great way to share information and keep track of accomplishments.  Do you want to draw your jogging route with your finger and have it shaded where it goes uphill and down?  Do you want the GPS data of where your cat goes at night presented in the dashed lines and bold x's of a classic comic?  For your privacy, it's best to obscure your exact location, so why not do it with style?  ArtsyTrail takes the fundamental work done by Google Maps and adds layers of detail and abstraction.
+Introduction - Social media is a great way to share information and keep track of accomplishments.  Do you want to draw your biking route with your finger and have it shaded where it goes uphill and down?  Do you want the GPS data of where your cat goes at night presented in the dashed lines and bold x's of a classic comic?  For your privacy, it's best to obscure your exact location, so why not do it with style?  ArtsyTrail takes the fundamental work done by Google Maps and adds layers of detail and abstraction.
 
 ## Team Members
 
