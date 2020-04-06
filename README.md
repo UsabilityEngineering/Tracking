@@ -6,7 +6,7 @@ Introduction - a brief summary of the general problem being studied and addresse
 
 * **Henry Graves** - Summary of contributions
 * **Shan Khinda** - Summary of contributions
-* **Warren Rose II** - Summary of contributions
+* **Warren Rose II** - Original Concept, Some Document Construction
 
 ## Phase 1: User Inquiry and Inspection
 
