@@ -26,4 +26,4 @@ Identify the primary scenarios for your software and for each, include a descrip
 
 ## Supplementary Materials
 
-Here we provide links to our survey and our current spreadsheet of classmate-submitted mock data.
+Here we provide links to our [Google-based Survey](https://docs.google.com/forms/d/e/1FAIpQLSeT3nwHmzimJzybtFnBFaMCCxQLLNpwmcHNOWkNiVLyfezj9w/viewform) and our [Current Spreadsheet](https://docs.google.com/spreadsheets/d/1PAvF5Gcmp-ZjLz62SLXvHMUZtbfkSBO6nsbSMyxJ3yo/edit?usp=sharing) of classmate-submitted mock data.
