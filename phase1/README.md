@@ -26,4 +26,4 @@ Identify the primary scenarios for your software and for each, include a descrip
 
 ## Supplementary Materials
 
-Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a survey, protocol for an interview or contextual inquiry, etc)
+Here we provide links to our survey and our current spreadsheet of classmate-submitted mock data.
