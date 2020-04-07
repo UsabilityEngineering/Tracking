@@ -1,8 +1,8 @@
-# Team Name, Phase 1: User Inquiry and Inspection
+# Tracking, Phase 1: User Inquiry and Inspection
 
 ## Methods
 
-Describe (A) Methods you used (B) Why you used them, and (C) Number of users (e.g. n=10) for each method
+We set up a 15 question online survey in hopes of having an easy way to access our target group of generally online people.  Unfortunately, resolutions involving the Chico State Campus shutting down in-person classes for the semester meant that we instead gathered 18 people's worth of mock data from our classmates.
 
 ## Findings
 
