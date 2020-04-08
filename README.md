@@ -28,7 +28,7 @@
        - Bikers and Joggers who want to estimate the distance of their route
        - Artists who want to redecorate their neighborhood
        - Social Media Enthusiasts traveling the country
-* A step by step summary of the features we expect in the app
+* Groundwork for Task Analysis gave us a step by step summary of the features we expect in the app
      - RealSpace and RealTrail Layers
        - Accurate Maps and Raw GPS/Hand-drawn Data
      - TwistedSpace and TwistedTrail Layers
@@ -39,10 +39,18 @@
        - Share your creations to printers and social media
      
 ##### Online Survey
-
-
-
-
+* Accessible Google Docs Quiz with 15 Questions answered by 18 Mock Personas
+     - Up Front User Consent Agreement Form Detailing Unlikely But Potential Risks
+     - Our Savvy Personas generally spent between 4-8 hrs/week using online communications tech
+     - Social Media was near universal and 3/5ths also have used GPS tech.
+       - High overlap of media platforms
+       - 2/3rds had privacy concerns when posting Google Maps Data
+     - 3/4 users chose the Apple App Store over Google Play
+       - We need to focus first on the iOS Market
+     - Only a third walk or jog a regular route
+     - Most people had indoor/outdoor pets
+       - They were far more willing to spend money on their pets than on their walking exercise
+       
 [Full phase 1 report](phase1/)
 
 ## Phase 2: Interaction Design
