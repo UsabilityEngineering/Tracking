@@ -47,6 +47,7 @@
        - 2/3rds had privacy concerns when posting Google Maps Data
      - 3/4 users chose the Apple App Store over Google Play
        - We need to focus first on the iOS Market
+       - Although both are used by the majority, Instagram easily beats Facebook in popularity
      - Only a third walk or jog a regular route
      - Most people had indoor/outdoor pets
        - They were far more willing to spend money on their pets than on their walking exercise
