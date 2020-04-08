@@ -20,6 +20,9 @@ Introduction - Social media is a great way to share information and keep track o
 * Usability Observation and Task Analysis
      - Methods to look into as our prototype progresses
 * Digital Wireframes and How to Push the Boundaries of Design
+     - Brainstorming Interfaces with each member of our team submitting:
+       - A serious design sketch
+       - A 'surreal' one
 
 ##### Paper Prototype
 * Concept evolved from modifying GPS data from pet owners and park rangers to a more accessible drawing program.
@@ -27,20 +30,17 @@ Introduction - Social media is a great way to share information and keep track o
        - Bikers and Joggers who want to estimate the distance of their route
        - Artists who want to redecorate their neighborhood
        - Social Media Enthusiasts traveling the country
-* Brainstorming Interfaces with each member of our team submitting:
-     - A serious design sketch
-     - A 'surreal' one
 * A step by step summary of the features we expect in the app
      - RealSpace and RealTrail Layers
        - Accurate Maps and Raw GPS/Hand-drawn Data
-     - TwistedTrail Layer
-       - B
+     - TwistedSpace and TwistedTrail Layers
+       - Scale and Smooth and add Cut-out Zoom Windows
      - ArtsySpace and ArtsyTrail Layers
-       - 
+       - Decorate the world with shading and stickers
      - Export Layer
        - Share your creations to printers and social media
      
-* ... In Progress...
+##### Online Survey
 
 
 
