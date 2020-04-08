@@ -114,6 +114,20 @@ Interested in software to track down lost pets as the woods in the browns valley
             since the internet usage is low and non-continuous,
             a rural setting such as browns valley seemed appropriate.
 
+### Persona 2
+<b>Josh</b>
+24, lives in Sacramento, California
+Fulltime college student at Sacramento State
+
+Parents have three outdoor cats and are completely tech un-savvy
+
+Sometimes the cats don't come to the door for dinner and his parents get worried and start calling for the cats.
+
+He's interested in a way to locate the cats easily so his parents can have peace of mind and he can have peace and quite to study.
+
+<b>Derivation:</b> Multiple survey responses with low budgets and high pet count with good technological use lead to the idea of a college student on a budget, yet living at home where multiple pets also reside.
+
+
 ## Scenarios
 
 Identify the primary scenarios for your software and for each, include a description that explains who (of your personas) and what they want to do
