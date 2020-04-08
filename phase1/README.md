@@ -91,8 +91,7 @@ We set up a 15 question online survey in hopes of having an easy way to access o
 The most reasonable platform to build for would be a smartphone since all of the participants have one and also since it was the most used form of communications technology. Within that since most people use the Apple App Store we can confidently say we should program with iOS in mind. Also we can see that the most used social media is instagram so if someone wants to share a map from the app we should export it as an image. Since from our findings we can see that most people would not want to spend more than $25 a month we need to make the app/tracker inexpensive. 
 
 ## Caveats
-
-Considerations and/or limitations to the method(s) you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc.
+Since we only used an online survey this made it hard to get in depth because most of the questions were multiple choice ones and also since it was online it's only available to those who have an internet connection, but since this would be part of our target demographic this is fine. Also due to COVID-19 we were only able to get mock data from other students rather than a wider demographic.
 
 ## Personas
 
