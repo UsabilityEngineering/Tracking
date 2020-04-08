@@ -4,7 +4,7 @@
 
 ## Team Members
 
-* **Henry Graves** - Summary of contributions
+* **Henry Graves** - Survey data analysis, Persona design, Scenario development 
 * **Shan Khinda** - Contributed to creating the survey, did the findings and conclusion in the report.
 * **Warren Rose II** - Original Concept, Some Document Construction
 
