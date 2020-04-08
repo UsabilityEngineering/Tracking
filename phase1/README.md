@@ -6,8 +6,6 @@ We set up a 15 question online survey in hopes of having an easy way to access o
 
 ## Findings
 
-For each method, describe the users you collected data from (demographics and how they represent your user base) and summarize the findings point-by-point (for example, the distribution of answers for a multiple-choice question). If you are researching existing software and/or competitor software, you may want to include pictures with call-outs that point out both important features and flaws within the interface.
-
 ### Online Survey:
   Question 1: Do you have a smartphone or data-enabled tablet?
     This was just a yes/no question. Our results were that everyone who took the survey answered yes. This was basically in
