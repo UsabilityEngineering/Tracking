@@ -104,7 +104,7 @@ Husband, father of three, private tractor mechanic.<br />
 
 Six total indoor and outdoor pets, each child responsible for one pet, sometimes they aren't as diligent as they should be with their pets and they get loose.
 
-Joe isn the most technically enclined, he uses a smartphone and a laptop for work, mainly to keep sales records with Quickbooks.
+Joe isn't the most technically enclined, he uses a smartphone and a laptop for work, mainly to keep sales records with Quickbooks.
 
 Interested in software to track down lost pets as the woods in the browns valley area are easy for pets to get lost in and the kids get worried about the dangerous highway that is also in the area.
 
