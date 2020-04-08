@@ -93,6 +93,8 @@ The most reasonable platform to build for would be a smartphone since all of the
 ## Caveats
 Since we only used an online survey this made it hard to get in depth because most of the questions were multiple choice ones and also since it was online it's only available to those who have an internet connection, but since this would be part of our target demographic this is fine. Also due to COVID-19 we were only able to get mock data from other students rather than a wider demographic.
 
+Surveys are notably a hands off approach that we're mainly using right now to assemble background data.  As the prototype progresses, we would ideally like to do task analysis to keep us on track and observe actual people figuring out the evolving interface through a series of contextual inquiries.
+
 ## Personas
 
 Provide each of your user personas, which represent (potential) users of your software; explain how you derived these personas from your user inquiry
