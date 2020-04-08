@@ -115,9 +115,9 @@ Interested in software to track down lost pets as the woods in the browns valley
             a rural setting such as browns valley seemed appropriate.
 
 ### Persona 2
-<b>Josh</b>
-24, lives in Sacramento, California
-Fulltime college student at Sacramento State
+<b>Josh</b><br />
+24, lives in Sacramento, California<br />
+Fulltime college student at Sacramento State<br />
 
 Parents have three outdoor cats and are completely tech un-savvy
 
