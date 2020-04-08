@@ -97,7 +97,22 @@ Surveys are notably a hands off approach that we're mainly using right now to as
 
 ## Personas
 
-Provide each of your user personas, which represent (potential) users of your software; explain how you derived these personas from your user inquiry
+### Persona 1:
+<b>Joe</b><br />
+53, live in Browns Valley, California<br />
+Husband, father of three, private tractor mechanic.<br />
+
+Six total indoor and outdoor pets, each child responsible for one pet, sometimes they aren't as diligent as they should be with their pets and they get loose.
+
+Joe isn the most technically enclined, he uses a smartphone and a laptop for work, mainly to keep sales records with Quickbooks.
+
+Interested in software to track down lost pets as the woods in the browns valley area are easy for pets to get lost in and the kids get worried about the dangerous highway that is also in the area.
+
+Derivation: a survey response with multiple pets
+            and low amounts of tech / social media usage
+            flet akin to that of an older user with a family
+            since the internet usage is low and non-continuous,
+            a rural setting such as browns valley seemed appropriate.
 
 ## Scenarios
 
