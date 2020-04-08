@@ -12,7 +12,7 @@ Introduction - Social media is a great way to share information and keep track o
 
 * Executive Summary of methods, data gathered, and most important outcomes
 *  a concise summary of your work with bullet-point notes that provide general overview of the work completed. Focus on the “big picture” of the phase.
-This phase of the project was mainly honing our design skills and evolving the early concepts into something with a wider user base.  The survey we wrote, although it was filled out with mock data by eighteen of our fellow students, should help provide a roadmap as we move forward.
+* This phase of the project was mainly honing our design skills and evolving the early concepts into something with a wider user base.  The survey we wrote, although it was filled out with mock data by eighteen of our fellow students, should help provide a roadmap as we move forward.
 
 ##### Design Skill Workshops
 * Comparative Methods of Data Gathering
@@ -20,16 +20,27 @@ This phase of the project was mainly honing our design skills and evolving the e
 * Usability Observation and Task Analysis
      - Methods to look into as our prototype progresses
 * Digital Wireframes and How to Push the Boundaries of Design
-     - Brainstorming Interfaces with each member of our team submitting:
-       - A serious design sketch
-       - A 'surreal' one
 
 ##### Paper Prototype
-* Concept evolved from modifying GPS data from pet owners and park rangers to a more accessible program.
+* Concept evolved from modifying GPS data from pet owners and park rangers to a more accessible drawing program.
      - Our target audience now also includes:
-       - Bikers and Joggers
-       - Art Enthusiasts who want to redecorate their neighborhood
-... In Progress...
+       - Bikers and Joggers who want to estimate the distance of their route
+       - Artists who want to redecorate their neighborhood
+       - Social Media Enthusiasts traveling the country
+* Brainstorming Interfaces with each member of our team submitting:
+     - A serious design sketch
+     - A 'surreal' one
+* A step by step summary of the features we expect in the app
+     - RealSpace and RealTrail Layers
+       - Accurate Maps and Raw GPS/Hand-drawn Data
+     - TwistedTrail Layer
+       - B
+     - ArtsySpace and ArtsyTrail Layers
+       - 
+     - Export Layer
+       - Share your creations to printers and social media
+     
+* ... In Progress...
 
 
 
