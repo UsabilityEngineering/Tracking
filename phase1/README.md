@@ -129,8 +129,14 @@ He's interested in a way to locate the cats easily so his parents can have peace
 
 
 ## Scenarios
+### Scenario 1
+#### Joe
+Joe got home from a long day fixing tractors, upon getting home his kids come racing to the door claiming two of their pets have been missing ever since they got home from school and they don't know how or when they got out. Joe needs to find a way to track these pets down but he is only one person looking for two pets that might be in completely different places. He thinks to start searching down the gravel driveway and maybe take the search to the highway however there is a lot of woodland that would be hard to manually search through as well.
 
-Identify the primary scenarios for your software and for each, include a description that explains who (of your personas) and what they want to do
+### Scenario 2
+#### Josh
+Josh gets home from classes and decides to feed the cats before his parents get home from the store as a nice gesture. Upon shaking the catfood and calling for them once or twice he notices that all but one cat isn't showing up. He wants to save his parents the trouble and track down the cat but they live in a fairly dense neighborhood in Sacremnto. Just then, the third cat shows up and he notices that each cat has the same type of brush on their fur. He knows that said brush couldn't have come from their yard and is curious as to where the cats go when they run off.
+
 
 ## Supplementary Materials
 
