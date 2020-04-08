@@ -97,7 +97,7 @@ Surveys are notably a hands off approach that we're mainly using right now to as
 
 ## Personas
 
-### Persona 1:
+### Persona 1
 <b>Joe</b><br />
 53, live in Browns Valley, California<br />
 Husband, father of three, private tractor mechanic.<br />
@@ -108,7 +108,7 @@ Joe isn the most technically enclined, he uses a smartphone and a laptop for wor
 
 Interested in software to track down lost pets as the woods in the browns valley area are easy for pets to get lost in and the kids get worried about the dangerous highway that is also in the area.
 
-Derivation: a survey response with multiple pets
+<b>Derivation:</b> a survey response with multiple pets
             and low amounts of tech / social media usage
             flet akin to that of an older user with a family
             since the internet usage is low and non-continuous,
