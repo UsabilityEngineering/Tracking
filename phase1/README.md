@@ -20,9 +20,9 @@ We set up a 15 question online survey in hopes of having an easy way to access o
   
 #### Question 3:
 ##### How much time (daily) do you spend using that technology?
-  This was a multiple choice question with 4 answers. The most frequent answer (72.2%)to this was 4-8 hours. This makes 
+  This was a multiple choice question with 4 answers. The most frequent answer (72.2%) to this was 4-8 hours. This makes 
   sense since from our 2 previous questions we know that all participants have a smartphone and that is also the most used
-  communications technology. Also, since wherever we go they go we have the most access to them.
+  communications technology. Also, since wherever we go, they go, we have the most access to them.
     
 #### Question 4:
 ##### Do you have an internet connection?
@@ -37,11 +37,11 @@ We set up a 15 question online survey in hopes of having an easy way to access o
 #### Question 6: 
 ##### Do you use social media?
   This was another yes or no question. 94.4% of participants answered yes. This was basically in line with what we thought,
-  since their are so many different kinds of social media(Twitter, Instagram, LinkedIn, etc).
+  since there are so many different kinds of social media (Twitter, Instagram, LinkedIn, etc).
     
 #### Question 7:
 ##### How many animals/pets do you have?
-  This was a multiple choice question where we found that the majority of people(64.7%) have either 0 or 1 pets. 5.9% have 
+  This was a multiple choice question where we found that the majority of people (64.7%) have one or fewer pets. 5.9% have 
   2 pets, 11.8% have 3 pets, and, what was really surprising was that, 17.6% have more than 5 pets.
     
 #### Question 8: 
