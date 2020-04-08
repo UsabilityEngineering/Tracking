@@ -88,8 +88,7 @@ We set up a 15 question online survey in hopes of having an easy way to access o
   Store and the rest chose the Google Play Store.
 
 ## Conclusions
-
-Discoveries derived from the method(s). For example, explain a requirement (e.g. “Task X needs to be accomplished with fewer steps. . . ”) based on a finding (e.g. “. . . because in our contextual inquiry, we found it was what the users did most often and complained about extraneous work needed to complete it”)
+The most reasonable platform to build for would be a smartphone since all of the participants have one and also since it was the most used form of communications technology. Within that since most people use the Apple App Store we can confidently say we should program with iOS in mind. Also we can see that the most used social media is instagram so if someone wants to share a map from the app we should export it as an image. Since from our findings we can see that most people would not want to spend more than $25 a month we need to make the app/tracker inexpensive. 
 
 ## Caveats
 
