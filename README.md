@@ -41,7 +41,7 @@
 ##### Online Survey
 * Accessible Google Docs Quiz with 15 Questions answered by 18 Mock Personas
      - Up Front User Consent Agreement Form Detailing Unlikely But Potential Risks
-     - Our Savvy Personas generally spent between 4-8 hrs/week using online communications tech
+     - Our Savvy Personas generally spent between 4-8 hrs/day using online communications tech
      - Social Media was near universal and 3/5ths also have used GPS tech.
        - High overlap of media platforms
        - 2/3rds had privacy concerns when posting Google Maps Data
