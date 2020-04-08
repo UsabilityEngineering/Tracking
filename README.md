@@ -5,7 +5,7 @@ Introduction - Social media is a great way to share information and keep track o
 ## Team Members
 
 * **Henry Graves** - Summary of contributions
-* **Shan Khinda** - Summary of contributions
+* **Shan Khinda** - Contributed to creating the survey, did the findings and conclusion in the report.
 * **Warren Rose II** - Original Concept, Some Document Construction
 
 ## Phase 1: User Inquiry and Inspection
