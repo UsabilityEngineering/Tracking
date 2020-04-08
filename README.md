@@ -6,7 +6,7 @@
 
 * **Henry Graves** - Survey data analysis, Persona design, Scenario development 
 * **Shan Khinda** - Contributed to creating the survey, did the findings and conclusion in the report.
-* **Warren Rose II** - Original Concept, Some Document Construction
+* **Warren Rose II** - Original concept.  App workflow design.  Some document construction
 
 ## Phase 1: User Inquiry and Inspection
 
