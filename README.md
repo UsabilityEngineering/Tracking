@@ -10,10 +10,29 @@ Introduction - Social media is a great way to share information and keep track o
 
 ## Phase 1: User Inquiry and Inspection
 
-* Executive Summary of methods,
-* data gathered,
-* and most important outcomes
-* In order to 
+* Executive Summary of methods, data gathered, and most important outcomes
+*  a concise summary of your work with bullet-point notes that provide general overview of the work completed. Focus on the “big picture” of the phase.
+This phase of the project was mainly honing our design skills and evolving the early concepts into something with a wider user base.  The survey we wrote, although it was filled out with mock data by eighteen of our fellow students, should help provide a roadmap as we move forward.
+
+##### Design Skill Workshops
+* Comparative Methods of Data Gathering
+** Groundwork For Our Survey
+* Usability Observation and Task Analysis
+** Methods to look into as our prototype progresses
+* Digital Wireframes and How to Push the Boundaries of Design
+** Brainstorming Interfaces with each member of our team submitting:
+*** A serious design sketch
+*** A 'surreal' one
+
+##### Paper Prototype
+* Concept evolved from modifying GPS data from pet owners and park rangers to a more accessible program.
+** Our target audience now also includes:
+*** Bikers and Joggers
+*** Art Enthusiasts who want to redecorate their neighborhood
+... In Progress...
+
+
+
 
 [Full phase 1 report](phase1/)
 
