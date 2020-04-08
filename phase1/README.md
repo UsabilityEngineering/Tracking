@@ -19,8 +19,8 @@ We set up a 15 question online survey in hopes of having an easy way to access o
   mainly desktop users. We were expecting more smartphone users than we actually got.
   
 #### Question 3:
-##### How much time(daily) do you spend using that technology?
-  This was a multiple choice question with 4 answers. The most frequent answer(72.2%)to this was 4-8 hours. This makes 
+##### How much time (daily) do you spend using that technology?
+  This was a multiple choice question with 4 answers. The most frequent answer (72.2%)to this was 4-8 hours. This makes 
   sense since from our 2 previous questions we know that all participants have a smartphone and that is also the most used
   communications technology. Also, since wherever we go they go we have the most access to them.
     
