@@ -41,8 +41,8 @@ We set up a 15 question online survey in hopes of having an easy way to access o
     
 #### Question 7:
 ##### How many animals/pets do you have?
-  This was a multiple choice question where we found that the majority of people (64.7%) have one or fewer pets. 5.9% have 
-  2 pets, 11.8% have 3 pets, and, what was really surprising was that, 17.6% have more than 5 pets.
+  This was a multiple choice question where we found that the majority of people have one pets, with only 27.78% saying no (33.33% if you count the blank answer as a negative). 33.33% have one pet, 5.9% have 
+  2 pets, 11.8% have 3 pets, and, what was really surprising, was that 17.6% have more than 5 pets.
     
 #### Question 8: 
 ##### Have you used a GPS tracker before?
@@ -61,7 +61,7 @@ We set up a 15 question online survey in hopes of having an easy way to access o
   
 #### Question 11: 
 ##### How much money are you willing to spend on tech assisting your jogging/walking exercise?
-  The majority of participants(80%) answered less than $25, and the rest answered $25-$50. The other options $50-$100 and
+  The majority of participants (80%) answered less than $25, and the rest answered $25-$50. The other options $50-$100 and
   over $100 were not chosen at all.
    
 #### Question 12: 
@@ -72,23 +72,23 @@ We set up a 15 question online survey in hopes of having an easy way to access o
 #### Question 13: 
 ##### Indoor Only / Mixed / Outdoor Only / Indoor Only With Frequent Escapes?
   This question was a follow up to how many pets the participants have. 66.7% of people answered with their pets being
-  mixed between inside and outside. 26.7% were indoor only and 6.7% were outdoor only. The last option was indoor bit with 
+  mixed between inside and outside. 26.7% were indoor only and 6.7% were outdoor only. The last option was indoor but with 
   frequent escapes and this option was not chosen at all.
     
 #### Question 14: 
 ##### What Social Media Platforms do you use?
-  This was a choose all that apply with an optional other to write in an answer. The most chosen one was Instagram where
+  This was a choose all that apply, with an optional other to write in an answer. The most chosen one was Instagram where
   81.3% of participants chose it. Next were Snapchat and Twitter which were tied at 75%, then Facebook with 68.8% of users
   answering that they use it. Lastly the written in answers include Tik-Tok, Discord, Myspace, Skype, and Steam all were
   tied at 6.3%.
     
 #### Question 15: 
 ##### What marketplace app do you use?
-  This question let us know what OS the participants used. There were 2 choices and the majority(77.8%) chose the Apple App
+  This question let us know what OS the participants used. There were 2 choices and the majority (77.8%) chose the Apple App
   Store and the rest chose the Google Play Store.
 
 ## Conclusions
-The most reasonable platform to build for would be a smartphone since all of the participants have one and also since it was the most used form of communications technology. Within that since most people use the Apple App Store we can confidently say we should program with iOS in mind. Also we can see that the most used social media is instagram so if someone wants to share a map from the app we should export it as an image. Since from our findings we can see that most people would not want to spend more than $25 a month we need to make the app/tracker inexpensive. 
+The most reasonable platform to build for would be a smartphone since all of the participants have one and also since it was the most used form of communications technology. Within that since most people use the Apple App Store we can confidently say we should program with iOS in mind. Also we can see that the most used social media is Instagram so if someone wants to share a map from the app we should export it as an image. Since from our findings we can see that most people would not want to spend more than $25 a month we need to make the app/tracker inexpensive. 
 
 ## Caveats
 Since we only used an online survey this made it hard to get in depth because most of the questions were multiple choice ones and also since it was online it's only available to those who have an internet connection, but since this would be part of our target demographic this is fine. Also due to COVID-19 we were only able to get mock data from other students rather than a wider demographic.
@@ -99,20 +99,20 @@ Surveys are notably a hands off approach that we're mainly using right now to as
 
 ### Persona 1
 <b>Joe</b><br />
-53, live in Browns Valley, California<br />
+53, lives in Browns Valley, California<br />
 Husband, father of three, private tractor mechanic.<br />
 
-Six total indoor and outdoor pets, each child responsible for one pet, sometimes they aren't as diligent as they should be with their pets and they get loose.
+Six total indoor and outdoor pets, each child responsible for one pet. Sometimes they aren't as diligent as they should be with their pets and they get loose.
 
-Joe isn't the most technically enclined, he uses a smartphone and a laptop for work, mainly to keep sales records with Quickbooks.
+Joe isn't the most technically inclined. He uses a smartphone and a laptop for work, mainly to keep sales records with Quickbooks.
 
-Interested in software to track down lost pets as the woods in the browns valley area are easy for pets to get lost in and the kids get worried about the dangerous highway that is also in the area.
+Interested in software to track down lost pets as the woods in the Browns Valley area are easy for pets to get lost in and the kids get worried about the dangerous highway that is also in the area.
 
 <b>Derivation:</b> a survey response with multiple pets
             and low amounts of tech / social media usage
-            flet akin to that of an older user with a family
+            felt akin to that of an older user with a family
             since the internet usage is low and non-continuous,
-            a rural setting such as browns valley seemed appropriate.
+            a rural setting such as Browns Valley seemed appropriate.
 
 ### Persona 2
 <b>Josh</b><br />
@@ -131,11 +131,11 @@ He's interested in a way to locate the cats easily so his parents can have peace
 ## Scenarios
 ### Scenario 1
 #### Joe
-Joe got home from a long day fixing tractors, upon getting home his kids come racing to the door claiming two of their pets have been missing ever since they got home from school and they don't know how or when they got out. Joe needs to find a way to track these pets down but he is only one person looking for two pets that might be in completely different places. He thinks to start searching down the gravel driveway and maybe take the search to the highway however there is a lot of woodland that would be hard to manually search through as well.
+Joe got home from a long day fixing tractors, upon getting home his kids come racing to the door claiming two of their pets have been missing ever since they got home from school and they don't know how or when they got out. Joe needs to find a way to track these pets down but he is only one person looking for two pets that might be in completely different places. He thinks to start searching down the gravel driveway and maybe take the search to the highway...  However there is a lot of woodland that would be hard to manually search through as well.
 
 ### Scenario 2
 #### Josh
-Josh gets home from classes and decides to feed the cats before his parents get home from the store as a nice gesture. Upon shaking the catfood and calling for them once or twice he notices that all but one cat isn't showing up. He wants to save his parents the trouble and track down the cat but they live in a fairly dense neighborhood in Sacremnto. Just then, the third cat shows up and he notices that each cat has the same type of brush on their fur. He knows that said brush couldn't have come from their yard and is curious as to where the cats go when they run off.
+Josh gets home from classes and decides to feed the cats before his parents get home from the store as a nice gesture. Upon shaking the cat food and calling for them once or twice he notices that all but one cat isn't showing up. He wants to save his parents the trouble and track down the cat but they live in a fairly dense neighborhood in Sacremnto. Just then, the third cat shows up and he notices that each cat has the same type of brush on their fur. He knows that said brush couldn't have come from their yard and is curious as to where the cats go when they run off.
 
 
 ## Supplementary Materials
