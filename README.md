@@ -16,19 +16,19 @@ This phase of the project was mainly honing our design skills and evolving the e
 
 ##### Design Skill Workshops
 * Comparative Methods of Data Gathering
-** Groundwork For Our Survey
+     - Groundwork For Our Survey
 * Usability Observation and Task Analysis
-** Methods to look into as our prototype progresses
+     - Methods to look into as our prototype progresses
 * Digital Wireframes and How to Push the Boundaries of Design
-** Brainstorming Interfaces with each member of our team submitting:
-*** A serious design sketch
-*** A 'surreal' one
+     - Brainstorming Interfaces with each member of our team submitting:
+       - A serious design sketch
+       - A 'surreal' one
 
 ##### Paper Prototype
 * Concept evolved from modifying GPS data from pet owners and park rangers to a more accessible program.
-** Our target audience now also includes:
-*** Bikers and Joggers
-*** Art Enthusiasts who want to redecorate their neighborhood
+     - Our target audience now also includes:
+       - Bikers and Joggers
+       - Art Enthusiasts who want to redecorate their neighborhood
 ... In Progress...
 
 
