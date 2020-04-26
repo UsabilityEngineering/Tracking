@@ -9,7 +9,7 @@ Here are some early drafts of our wireframes as exported from Adobe XD at 30% no
 
 ### Local Menus
 
-
+<img src="assets/Local_Menu.png" width="30%" height="30%" title="Local Menu">
 
 Warren: Not shown is the duplicate About page that links back to this local menu rather than the main one.
 
