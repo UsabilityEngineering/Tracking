@@ -13,9 +13,13 @@ Warren: We had some false starts using several early artboards where clicking di
 
 Warren: Not shown is the duplicate About page that links back to the local menu rather than the main one.
 
-### Data Management
+### Data Management: Input
 
-<img src="assets/Load_Menu.png" width="30%" height="30%" title="Load Menu"> <img src="assets/Load_Project.png" width="30%" height="30%" title="Load Project"> <img src="assets/Import.png" width="30%" height="30%" title="Import Project"> <img src="assets/Sync.png" width="30%" height="30%" title="Sync Project"> <img src="assets/Save.png" width="30%" height="30%" title="Save Project"><img src="assets/Export.png" width="30%" height="30%" title="Export Project">
+<img src="assets/Load_Menu.png" width="30%" height="30%" title="Load Menu"> <img src="assets/Load_Project.png" width="30%" height="30%" title="Load Project"> <img src="assets/Import.png" width="30%" height="30%" title="Import Project"> <img src="assets/Sync.png" width="30%" height="30%" title="Sync Project">
+
+### Data Management: Output
+
+<img src="assets/Save.png" width="30%" height="30%" title="Save Project"><img src="assets/Export.png" width="30%" height="30%" title="Export Project">
 
 Warren: We were surprised that our survey, which as noted was filled out with 'mock' data by our fellow students, showed the popularity of Instagram outshining that of Facebook.  We made sure to provide labeled export buttons for convenient posting to those two and several other notable social networks.
 
