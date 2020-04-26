@@ -4,7 +4,7 @@ Here are some early drafts of our wireframes as exported from Adobe XD at 50% no
 
 #Main Menu
 
-<img src="assets/Menu_Main.png" width="50%" height="50%" title="Github Logo">
+<img src="assets/Menu_Main.png" width="10%" height="50%" title="Github Logo">
 
 
 #Local Menu
