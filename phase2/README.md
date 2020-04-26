@@ -2,38 +2,38 @@
 
 Here are some early drafts of our wireframes as exported from Adobe XD at 25% normal size.  They are organized roughly by purpose alongisde our thought processes while creating and refinining them.
 
-#Main Menu
+### Main Menu
 
-<img src="assets/Menu_Main.png" width="25%" height="25%" title="Github Logo">
-
-
-#Local Menu
+<img src="assets/Menu_Main.png" width="40%" height="40%" title="Main Menu">
 
 
-
-#Data Management
+### Local Menu
 
 
 
-#RealSpace
+### Data Management
 
 
 
-#RealTrail
+### RealSpace
 
 
 
-#TwistedSpace
+### RealTrail
 
 
 
-#TwistedTrail
+### TwistedSpace
 
 
 
-#ArtsySpace
+### TwistedTrail
 
 
 
-#ArtsyTrail
+### ArtsySpace
+
+
+
+### ArtsyTrail
 
