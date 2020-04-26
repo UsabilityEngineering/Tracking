@@ -34,8 +34,9 @@ Warren: We were surprised that our survey, which as noted was filled out with 'm
 
 
 ### ArtsySpace
-<img src="assets/ArtsyTrail_Main.png" width="30%" height="30%" title="ArtsyTrail Base"> 
+
 
 
 ### ArtsyTrail
 
+<img src="assets/ArtsyTrail_Main.png" width="30%" height="30%" title="ArtsyTrail Base"> <img src="assets/ArtsyTrail_DataFX.png" width="30%" height="30%" title="ArtsyTrail Data FX"> 
