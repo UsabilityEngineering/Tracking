@@ -6,6 +6,8 @@ Here are some early drafts of our wireframes as exported from Adobe XD at 30% no
 
 <img src="assets/Menu_Main.png" width="30%" height="30%" title="Main Menu"> <img src="assets/Menu_Local.png" width="30%" height="30%" title="Local Menu">
 
+Warren: We had some false starts using several early artboards where clicking disabled buttons led to frustration.  After that, we made sure to indicate which portions of the screen visible behind the active dialog box or menu were currently inactive by 'greying' them out.  
+
 ### Info & Settings
 <img src="assets/About.png" width="30%" height="30%" title="About"> <img src="assets/HowToUse.png" width="30%" height="30%" title="How To Use"> <img src="assets/Options.png" width="30%" height="30%" title="Options">
 
