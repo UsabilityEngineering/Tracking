@@ -4,7 +4,7 @@ Here are some early drafts of our wireframes as exported from Adobe XD at 25% no
 
 ### Main Menu
 
-<img src="assets/Menu_Main.png" width="40%" height="40%" title="Main Menu">
+<img src="assets/Menu_Main.png" width="30%" height="30%" title="Main Menu">
 
 
 ### Local Menu
