@@ -56,7 +56,9 @@
 
 ## Phase 2: Interaction Design
 
-*Coming soon*
+Following this survey and fleshing out of our personas and related scenarios, we have expanded our prototype.  Here are snapshots of an early version of our wireframes alongside some of the thought process that went into designing them.
+
+[Full phase 2 report](phase2/)
 
 ## Phase 3: Usability Evaluation
 
