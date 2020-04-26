@@ -11,7 +11,7 @@ Warren: We had some false starts using several early artboards where clicking di
 ### Info & Settings
 <img src="assets/About.png" width="30%" height="30%" title="About"> <img src="assets/HowToUse.png" width="30%" height="30%" title="How To Use"> <img src="assets/Options.png" width="30%" height="30%" title="Options">
 
-Warren: Not shown is the duplicate About page that links back to the local menu rather than the main one.
+Warren: Not shown is the duplicate How To Use page that links back to the local menu rather than the main one.
 
 ### Data Management: Input
 
