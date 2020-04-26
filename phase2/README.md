@@ -17,15 +17,15 @@ Warren: Not shown is the duplicate About page that links back to this local menu
 
 <img src="assets/Load_Menu.png" width="30%" height="30%" title="Load Menu"> <img src="assets/Load_Project.png" width="30%" height="30%" title="Load Project"> <img src="assets/Import.png" width="30%" height="30%" title="Import Project"> <img src="assets/Sync.png" width="30%" height="30%" title="Sync Project"> <img src="assets/Save.png" width="30%" height="30%" title="Save Project"><img src="assets/Export.png" width="30%" height="30%" title="Export Project">
 
-Warren: We were surprised that our survey 
+Warren: We were surprised that our survey, which as noted was filled out with 'mock' data by our fellow students, showed the popularity of Instagram outshining that of Facebook.  We made sure to provide labeled export buttons for convenient posting to those two and several other notable social networks.
 
 ### RealSpace
 
-
+<img src="assets/RealSpace_Main.png" width="30%" height="30%" title="RealSpace Base">
 
 ### RealTrail
 
-
+<img src="assets/RealTrail_Main.png" width="30%" height="30%" title="RealTrail Base"> <img src="assets/RealTrail_CombineGPS.png" width="30%" height="30%" title="RealTrail Combine GPS"> <img src="assets/RealTrail_ImportGPS.png" width="30%" height="30%" title="RealTrail Import GPS">
 
 ### TwistedSpace
 
@@ -36,7 +36,7 @@ Warren: We were surprised that our survey
 
 
 ### ArtsySpace
-
+<img src="assets/ArtsyTrail_Main.png" width="30%" height="30%" title="ArtsyTrail Base"> 
 
 
 ### ArtsyTrail
