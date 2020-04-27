@@ -12,10 +12,13 @@ Warren: We had some false starts using several early artboards where clicking di
 <img src="assets/About.png" width="30%" height="30%" title="About"> <img src="assets/HowToUse.png" width="30%" height="30%" title="How To Use"> <img src="assets/Options.png" width="30%" height="30%" title="Options">
 
 Warren: Not shown is the duplicate How To Use page that links back to the local menu rather than the main one.
+Shan: The middle "How To Use" page is helpful since some of the terminology might be hard to understand for someone who might not be too technologically inclined.
 
 ### Data Management: Input
 
 <img src="assets/Load_Menu.png" width="30%" height="30%" title="Load Menu"> <img src="assets/Load_Project.png" width="30%" height="30%" title="Load Project"> <img src="assets/Import.png" width="30%" height="30%" title="Import Project"> <img src="assets/Sync.png" width="30%" height="30%" title="Sync Project">
+
+Shan: Allows a user to import previous data. Can help with possibly seeing where a pet has wandered before, to try to get a feel for where they may have gone if they are lost.
 
 ### Data Management: Output
 
@@ -26,6 +29,8 @@ Warren: We were surprised that our survey, which as noted was filled out with 'm
 ### RealSpace
 
 <img src="assets/RealSpace_Main.png" width="30%" height="30%" title="RealSpace Base">
+
+Shan: We decided it would be good to give different views to the user, for either finding their pet, or make the map prettier to upload to social media, this is what the RealSpace/Trail, TwistedSpace/Trail, and ArtsySpace/Trail are for. For example, if a user wanted to upload a map of their pets travels throughout the night, they could take advantage of the ArtsySpace/Trail.
 
 ### RealTrail
 
