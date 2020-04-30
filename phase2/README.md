@@ -6,7 +6,9 @@ Here are some early drafts of our wireframes as exported from Adobe XD at 30% no
 
 <img src="assets/Menu_Main.png" width="30%" height="30%" title="Main Menu"> <img src="assets/Menu_Local.png" width="30%" height="30%" title="Local Menu">
 
-Warren: We had some false starts using several early artboards where clicking disabled buttons led to frustration.  After that, we made sure to indicate which portions of the screen visible behind the active dialog box or menu were currently inactive by 'greying' them out.  
+Warren: We had some false starts using several early artboards where clicking disabled buttons led to frustration.  After that, we made sure to indicate which portions of the screen visible behind the active dialog box or menu were currently inactive by 'greying' them out.
+Henry: The Local Menu has the main focus of being your go to for navigating out of the main app as well as exporting and or saving data.
+it's positioning in the familiar top-right corner is key as you would expect such behavior to reside there. This menu can be reached from any of the 'space' or 'trail' sections of the app when a user is looking at map data
 
 ### Info & Settings
 <img src="assets/About.png" width="30%" height="30%" title="About"> <img src="assets/HowToUse.png" width="30%" height="30%" title="How To Use"> <img src="assets/Options.png" width="30%" height="30%" title="Options">
@@ -26,6 +28,7 @@ Shan: Allows a user to import previous data. Can help with possibly seeing where
 <img src="assets/Save.png" width="30%" height="30%" title="Save Project"><img src="assets/Export.png" width="30%" height="30%" title="Export Project">
 
 Warren: We were surprised that our survey, which as noted was filled out with 'mock' data by our fellow students, showed the popularity of Instagram outshining that of Facebook.  We made sure to provide labeled export buttons for convenient posting to those two and several other notable social networks.
+Henry: Both exporting and saving are reached via the local menu, the descision to 'sub-menu' these into a local menu felt natural as opposed to having seperate share/save icons cluttering the main view of the app.
 
 ### RealSpace
 
