@@ -43,15 +43,15 @@ Shan: We decided it would be good to give different views to the user, for eithe
 <img src="assets/RealTrail_Main.png" width="30%" height="30%" title="RealTrail Base"> <img src="assets/RealTrail_CombineGPS.png" width="30%" height="30%" title="RealTrail Combine GPS"> <img src="assets/RealTrail_ImportGPS.png" width="30%" height="30%" title="RealTrail Import GPS">
 
 ### TwistedSpace
-
+<img src="assets/TwistedSpace_Main.png" width="30%" height="30%" title="TwistedSpace Base">
 
 
 ### TwistedTrail
-
+<img src="assets/TwistedTrail_Main.png" width="30%" height="30%" title="TwistedTrail Base">
 
 
 ### ArtsySpace
-
+<img src="assets/ArstySpace_Main.png" width="30%" height="30%" title="ArtsySpace Base">
 
 
 ### ArtsyTrail
