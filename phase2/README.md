@@ -38,22 +38,31 @@ Henry: Both exporting and saving are reached via the local menu, the descision t
 
 Shan: We decided it would be good to give different views to the user, for either finding their pet, or make the map prettier to upload to social media, this is what the RealSpace/Trail, TwistedSpace/Trail, and ArtsySpace/Trail are for. For example, if a user wanted to upload a map of their pets travels throughout the night, they could take advantage of the ArtsySpace/Trail.
 
+Warren:
+
 ### RealTrail
 
 <img src="assets/RealTrail_Main.png" width="30%" height="30%" title="RealTrail Base"> <img src="assets/RealTrail_CombineGPS.png" width="30%" height="30%" title="RealTrail Combine GPS"> <img src="assets/RealTrail_ImportGPS.png" width="30%" height="30%" title="RealTrail Import GPS">
 
+Warren: RealTrail marks the biggest deviation from our original idea.  While we originally had wanted this to be a GPS tracker accessory, you are now allowed to trace a vector path with your finger.  This allows for planning ahead on trips such as bike routes, or retracing a familiar path if a GPS tracker is inaccessible.
+
 ### TwistedSpace
 <img src="assets/TwistedSpace_Main.png" width="30%" height="30%" title="TwistedSpace Base">
 
+Warren: Cutouts and Zooms are important if something you are tracking spends a lot of time in one concentrated area and you want to alter the scale of it compared to the rest of the picture.  This also allows you to minimize streets and distort exact distances to help prevent people from pinpointing your location.
 
 ### TwistedTrail
 <img src="assets/TwistedTrail_Main.png" width="30%" height="30%" title="TwistedTrail Base">
 
+Warren: This allows you to alter how the Trail relates to the ground it is covering without affecting the original data, such as masking out discontinuities or smoothing jagged edges.  The effect of TwistedSpace can be toggled on and off to allow more freedom in sliding things around.
 
 ### ArtsySpace
 <img src="assets/ArtsySpace_Main.png" width="30%" height="30%" title="ArtsySpace Base">
 
+Warren: This is the other half of disguising your exact location on social media.  Also it comes with a number of stickers and decorations and aristic filters to enhance visual appeal.
 
 ### ArtsyTrail
 
 <img src="assets/ArtsyTrail_Main.png" width="30%" height="30%" title="ArtsyTrail Base"> <img src="assets/ArtsyTrail_DataFX.png" width="30%" height="30%" title="ArtsyTrail Data FX"> 
+
+Warren: After our survey showed that people were unwilling to spend much money on augmenting their jogging route, we added the concept of shading by elevation and related features to entice people with expensive bikes who have already invested money into that form of transportation.
