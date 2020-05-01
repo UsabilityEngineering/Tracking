@@ -38,8 +38,6 @@ Henry: Both exporting and saving are reached via the local menu, the descision t
 
 Shan: We decided it would be good to give different views to the user, for either finding their pet, or make the map prettier to upload to social media, this is what the RealSpace/Trail, TwistedSpace/Trail, and ArtsySpace/Trail are for. For example, if a user wanted to upload a map of their pets travels throughout the night, they could take advantage of the ArtsySpace/Trail.
 
-Warren:
-
 ### RealTrail
 
 <img src="assets/RealTrail_Main.png" width="30%" height="30%" title="RealTrail Base"> <img src="assets/RealTrail_CombineGPS.png" width="30%" height="30%" title="RealTrail Combine GPS"> <img src="assets/RealTrail_ImportGPS.png" width="30%" height="30%" title="RealTrail Import GPS">
