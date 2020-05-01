@@ -51,7 +51,7 @@ Shan: We decided it would be good to give different views to the user, for eithe
 
 
 ### ArtsySpace
-<img src="assets/ArstySpace_Main.png" width="30%" height="30%" title="ArtsySpace Base">
+<img src="assets/ArtsySpace_Main.png" width="30%" height="30%" title="ArtsySpace Base">
 
 
 ### ArtsyTrail
