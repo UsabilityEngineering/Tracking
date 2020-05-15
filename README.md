@@ -62,4 +62,6 @@ Following this survey and fleshing out of our personas and related scenarios, we
 
 ## Phase 3: Usability Evaluation
 
-*Coming Soon*
+After a semester of work, we are pleased to present a Adobe XD interactive preview of the ArtsyTrail app alongside some of our thoughts on testing protocols.
+
+[Full phase 3 report](phase3/)
