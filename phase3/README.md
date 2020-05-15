@@ -1,8 +1,8 @@
 # Phase 3: Usability Evaluation
 
-## Artsy Trail App Preview
+## Interview Style Decisions
 
-[Adobe XD Prototype](https://xd.adobe.com/view/65c822f9-ee6d-4c79-4e19-ac8364a1575f-13f9/?fullscreen&hints=off)
+Having a live interview is appropriate for this phase of the project.  As we are dealing with a prototype, we are unable to do particular forms of more in depth research at this period, such as naturalistic observations of an alpha demo in the wild.  We are doing formative assessments of the user by observing their unconcious reactions in real-time to the tasks prompted by the interviewer, helped along by the interviewer prefacing the instructions with a prompt to speak their thoughts aloud.  Following this phase, we conduct a summative assement asking them to provide their thoughts and feelings on their experience and overall design of the app.
 
 ## Interview Methods
 
@@ -49,5 +49,6 @@ This section is a series of hopefully easy questions to gauge their level of sat
 ### Conclusion
 We take a moment to thank them very much for their feedback and reassure them that their answers have been heard and should help us improve this and future projects.  We leave them with our wishes that they'll have a wonderful day. 
 
+## Artsy Trail App Preview
 
-
+[Adobe XD Prototype](https://xd.adobe.com/view/65c822f9-ee6d-4c79-4e19-ac8364a1575f-13f9/?fullscreen&hints=off)
