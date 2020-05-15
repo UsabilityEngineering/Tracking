@@ -4,8 +4,8 @@
 
 ## Team Members
 
-* **[Henry Graves](https://usabilityengineering.github.io/uxportfolio-HenryGraves)** - Survey data analysis, Persona design, Scenario development. Protocol assembly.
-* **[Shan Khinda](https://usabilityengineering.github.io/uxportfolio-skhinda)** - Contributed to creating the survey, did the findings and conclusion in the report. Art design.
+* **[Henry Graves](https://usabilityengineering.github.io/uxportfolio-HenryGraves)** - Survey data analysis, Persona design, Scenario development. Protocol assembly.  Conducted first live interview.
+* **[Shan Khinda](https://usabilityengineering.github.io/uxportfolio-skhinda)** - Contributed to creating the survey, did the findings and conclusion in the report. Art design.  Official note-taker for first live interview.
 * **[Warren Rose II](https://usabilityengineering.github.io/uxportfolio-TreeSquirrel84/)** - Original concept, List of workflow and feature goals, Some document construction. Logo Design.
 
 ## Phase 1: User Inquiry and Inspection
