@@ -64,13 +64,17 @@ Following this survey and fleshing out of our personas and related scenarios, we
 
 After a semester of work, we are pleased to present a Adobe XD interactive preview of the ArtsyTrail app alongside some of our thoughts on testing protocols.
 
-* Artsy Trail App Preview
+#####  Artsy Trail App Preview
 
-   - [Adobe XD Prototype](https://xd.adobe.com/view/65c822f9-ee6d-4c79-4e19-ac8364a1575f-13f9/?fullscreen&hints=off)
+* This is a link to the Adobe XD prototype in presentation mode.  Rather than a static snapshot of when this document was created, this link is connected to the most current version of the project available.  It is presented at a resolution and orientation approriate for many mobile devices.
+- [Adobe XD Prototype](https://xd.adobe.com/view/65c822f9-ee6d-4c79-4e19-ac8364a1575f-13f9/?fullscreen&hints=off)
 
-* Interview Document
+#####  Interview Document
 
-   - [Protocol PDF](assets/UX_UI_Protocol_Tracking.pdf)
+* This is the PDF provided to our interviewers as they begin to question the users.  In most cases, this will involve the interviewer both being able to observe the user's facial expressions and a livestream close-up of their interactions with the app prototype.
+ - [Protocol PDF](assets/UX_UI_Protocol_Tracking.pdf)
 
-* Summary of the phase
+#####  Summary of the Protocol Questions
+
+* These reflect the insights we hope to gleam through each presented task and question between interviewer and user.
    - [Full phase 3 report](phase3/)
