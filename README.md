@@ -64,4 +64,13 @@ Following this survey and fleshing out of our personas and related scenarios, we
 
 After a semester of work, we are pleased to present a Adobe XD interactive preview of the ArtsyTrail app alongside some of our thoughts on testing protocols.
 
-[Full phase 3 report](phase3/)
+* Artsy Trail App Preview
+
+   - [Adobe XD Prototype](https://xd.adobe.com/view/65c822f9-ee6d-4c79-4e19-ac8364a1575f-13f9/?fullscreen&hints=off)
+
+* Interview Document
+
+   - [Protocol PDF](assets/UX_UI_Protocol_Tracking.pdf)
+
+* Summary of the phase
+   - [Full phase 3 report](phase3/)
