@@ -66,7 +66,7 @@ After a semester of work, we are pleased to present a Adobe XD interactive previ
 
 #####  Artsy Trail App Preview
 
-* This is a link to the Adobe XD prototype in presentation mode.  Rather than a static snapshot of when this document was created, this link is connected to the most current version of the project available.  It is presented at a resolution and orientation approriate for many mobile devices.
+* This is a link to the Adobe XD prototype in presentation mode.  Rather than a static snapshot from when this document was created, this link is connected to the most current version of the project available on the Adobe Cloud.  It is presented at a resolution and orientation approriate for many mobile devices.
    - [Adobe XD Prototype](https://xd.adobe.com/view/65c822f9-ee6d-4c79-4e19-ac8364a1575f-13f9/?fullscreen&hints=off)
 
 #####  Interview Document
